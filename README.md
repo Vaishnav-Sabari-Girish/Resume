@@ -8,4 +8,4 @@ To see it, clone the repo and type
 typst compile cv.typ
 ```
 
-Or download the [file](./cv.pdf)
+Or download the [file](./VaishnavSabariGirish_Resume.pdf)
