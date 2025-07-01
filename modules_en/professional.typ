@@ -37,8 +37,7 @@
   title: [Intern],
   society: [PANTECH Solutions],
   date: list(
-    [Summer 2017],
-    [Summer 2016],
+    [June 2022 - July 2022]
   ),
   location: [Bengaluru, Karnataka],
   description: list(
