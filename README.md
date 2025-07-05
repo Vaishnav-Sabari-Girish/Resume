@@ -11,4 +11,4 @@ typst compile VaishnavSabariGirish_Resume.typ
 
 Or download the [file](./VaishnavSabariGirish_Resume.pdf)
 
-Or access it at this [website](https://vaishnav-sabari-girish.github.io/Resume/)
+Or access it at this [website](https://vaishnav.world)
