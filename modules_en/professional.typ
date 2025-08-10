@@ -8,6 +8,21 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
+  title: [Embedded Systems Development Intern],
+  society: [Depixel Tech],
+  date: [August 2025 - October 2025],
+  location: [Bengaluru, Karnataka],
+  description: list(
+[Developed Embedded firmware for Smart Rings using Zephyr RTOS],
+[Programmed Nordic Microcontrollers using Embedded Rust, nRF Connect Extension and nRF Connect Application],
+[Designed PCB for the Smart Rings using KiCad, including component placement and routing optimization],
+[Learned how to use the Nordic Development Kit for prototyping and debugging],
+[Implemented low-power sleep modes and power management strategies to extend battery life for wearable applications],
+[Integrated sensor data collection and wireless communication protocols (Bluetooth LE) for real-time health monitoring]
+  ),
+)
+
+#cvEntry(
   title: [Embedded Systems Intern],
   society: [Apsis Solutions],
   date: [January 2025 - March 2025],
