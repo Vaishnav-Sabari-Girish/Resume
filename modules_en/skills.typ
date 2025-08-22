@@ -19,7 +19,7 @@
 
 - #cvSkill(
   type: [#align(alignment.left)[Tools and Software]],
-  info: [KiCad, Proteus, LT Spice, Linux Distributions],
+  info: [KiCad, Proteus, LT Spice, Linux Distributions, OpenSCAD],
 )
 
 - #cvSkill(
@@ -29,5 +29,5 @@
 
 - #cvSkill(
   type: [#align(alignment.left)[Languages]],
-  info: [English , Japanese (N3 Level) , Tamil , Kannada , Hindi],
+  info: [English , Japanese , Tamil , Kannada , Hindi],
 )
