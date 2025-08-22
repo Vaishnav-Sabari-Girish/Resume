@@ -15,7 +15,7 @@
   description: list(
 [Developed embedded firmware using Zephyr RTOS and Nordic microcontrollers, integrating sensor interfaces and wireless communication (Bluetooth LE)],
 [Designed and optimized PCB layouts for wearable IoT devices, ensuring reliability and efficient signal flow],
-[Learned how to use the Nordic Development Kit for prototyping and debugging],
+[Hands-on experience with the Nordic Development Kit for prototyping and debugging],
 [Implemented low-power strategies for extended product lifetime],
 [Integrated sensor data collection and wireless communication protocols (Bluetooth LE) for real-time health monitoring]
   ),
