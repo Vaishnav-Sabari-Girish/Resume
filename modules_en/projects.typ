@@ -8,6 +8,17 @@
 #cvSection("Projects")
 
 #cvEntry(
+  title: [Hayasen],
+  society: [],
+  date: [],
+  location: [],
+  description: list(
+    [A unified sensor interface library which provides user-friendly API's for using multiple sensors. Written in Embedded Rust]
+  ),
+)
+
+
+#cvEntry(
   title: [Arduino Interactive CLI],
   society: [],
   date: [],
