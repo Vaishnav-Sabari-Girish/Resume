@@ -18,7 +18,7 @@
 
 #show: cv.with(
   metadata,
-  profile-photo: image("assets/avatar.png"),
+  //profile-photo: image("assets/avatar.png"),
   // To use custom image icons in personal.info.custom-N entries,
   // pass them here (keys must match the custom-N keys in metadata.toml):
   // custom-icons: (
@@ -27,10 +27,10 @@
 )
 
 #import-modules((
-  "education",
+  "skills",
   "professional",
   "projects",
+  "education",
   "certificates",
   "publications",
-  "skills",
 ))

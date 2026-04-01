@@ -8,9 +8,8 @@
 #cv-publication(
   bib: bibliography("../assets/publications.bib"),
   key-list: (
-    "smith2020",
-    "jones2021",
-    "wilson2022",
+    "jnana2023",
+    "icmracc2025",
   ),
   ref-style: "ieee",
   ref-full: false,

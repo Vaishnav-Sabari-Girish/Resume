@@ -5,41 +5,71 @@
 #cv-section("Projects & Associations")
 
 #cv-entry(
-  title: [Volunteer Data Analyst],
-  society: [ABC Nonprofit Organization],
-  date: [2019 - Present],
-  location: [New York, NY],
+  title: [Lead Maintainer],
+  society: [AlertAngel Organization],
+  date: [2025 - Present],
+  location: [Bengaluru, India],
   description: list(
-    [Analyze donor and fundraising data to identify trends and opportunities for growth],
-    [Create data visualizations and dashboards to communicate insights to the board of directors],
-    [Collaborate with other volunteers to develop and implement data-driven strategies],
-    [Increased donation efficiency by 25% through predictive modeling],
+    [Develop and manufacture a novel Elderly Monitoring system],
+    [Write firmware for the Elderly Monitoring System],
+    [Maintain code quality and CI/CD pipelines],
+    [Collaborate with other maintainers and clinical professionals to develop and implement a clinically approved device],
   ),
-  tags: ("Volunteer Work", "Non-profit", "Social Impact"),
+  tags: ("Maintaining", "Private Organization", "Social Impact"),
 )
+
+#cv-entry(
+  title: [Lead Maintainer],
+  society: [NextStd Organization],
+  date: [2026 - Present],
+  location: [Bengaluru, India],
+  description: list(
+    [Develop a memory safe and type-safe alternative to `stdio.h`],
+    [Write firmware for the `stdio.h` alternative],
+    [Maintain code quality and CI/CD pipelines],
+    [Collaborate with other maintainers and professionals to develop and implement an approved library],
+  ),
+  tags: ("Maintaining", "Open Source", "Rust", "Type-safe", "Memory-safe"),
+)
+
 
 #cv-entry(
   title: [Open Source Contributor],
-  society: [Python Data Science Libraries],
-  date: [2018 - Present],
+  society: [`mousefood` and `ratatui`],
+  date: [2025 - Present],
   location: [Remote],
   description: list(
-    [Contributed to pandas, scikit-learn, and matplotlib projects],
-    [Fixed bugs, improved documentation, and added new features],
-    [Mentored new contributors during Google Summer of Code],
+    [Contributed to `mousefood` and `ratatui` projects],
+    [Improved documentation, and added new examples],
   ),
-  tags: ("Open Source", "Python", "Community"),
+  tags: ("Open Source", "Rust", "TUI", "Embedded", "Graphics", "Community"),
 )
 
 #cv-entry(
-  title: [Machine Learning Research Project],
-  society: [Personal Project],
-  date: [Summer 2020],
+  title: [Blazingly-fast Serial monitor],
+  society: [ComChan],
+  date: [Summer 2024],
   location: [Remote],
   description: list(
-    [Developed a novel approach to time series forecasting using transformer architectures],
-    [Published research paper and open-sourced implementation on GitHub],
-    [Achieved 15% improvement over baseline models on benchmark datasets],
+    [Developed a serial monitor to read UART streams with a TUI (Terminal User Interface) Serial Plotter],
+    [Open-sourced implementation on GitHub],
+    [Mentored developers in Open Source Connect Global 2026]
   ),
-  tags: ("Research", "Deep Learning", "Time Series"),
+  tags: ("UART", "Rust", "Embedded tools", "TUI"),
 )
+
+#pagebreak()
+
+#cv-entry(
+  title: [Fast and Secure door lock system using Li-Fi],
+  society: [Smart door lock using Li-Fi],
+  date: [Summer 2024],
+  location: [Remote],
+  description: list(
+    [Developed a secure door lock system using Li-Fi],
+    [Open-sourced implementation on GitHub],
+    [Presented a research paper at ICMRACC 2025 and published in Premier Journal of Science]
+  ),
+  tags: ("Arduino", "ESP32", "Li-Fi", "Research"),
+)
+

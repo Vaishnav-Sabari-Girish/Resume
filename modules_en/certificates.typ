@@ -5,38 +5,29 @@
 #cv-section("Certificates & Awards")
 
 #cv-honor(
-  date: [2022],
-  title: [AWS Certified Security - Specialty],
-  issuer: [Amazon Web Services (AWS)],
-  url: "https://aws.amazon.com/certification/",
+  date: [2025],
+  title: [Beginner's guide to Linux Kernel Development (LFD103)],
+  issuer: [The Linux Foundation],
   location: [Online],
 )
 
 #cv-honor(
-  date: [2021],
-  title: [Data Science Excellence Award],
-  issuer: [XYZ Corporation],
-  location: [San Francisco, CA],
-)
-
-#cv-honor(
-  date: [2020],
-  title: [Applied Data Science with Python Specialization],
-  issuer: [University of Michigan via Coursera],
-  url: "https://coursera.org/specializations/data-science-python",
+  date: [2025],
+  title: [Introduction to Linux (LFS101)],
+  issuer: [The Linux Foundation],
   location: [Online],
 )
 
 #cv-honor(
-  date: [2019],
-  title: [Tableau Desktop Certified Professional],
-  issuer: [Tableau Software],
-  url: "https://www.tableau.com/learn/certification",
+  date: [2023],
+  title: [C programming for Embedded Applications],
+  issuer: [Linkedin Learning],
+  location: [Online],
 )
 
 #cv-honor(
-  date: [2018],
-  title: [SQL Fundamentals Track],
-  issuer: [DataCamp],
+  date: [2025],
+  title: [Zephyr Training - Community Edition],
+  issuer: [Beningo Embedded Group],
   location: [Online],
 )
