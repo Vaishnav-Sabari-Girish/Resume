@@ -1,0 +1,17 @@
+#!/bin/sh
+set -e
+
+# Ensure the script runs from the repository root
+cd "$(git rev-parse --show-toplevel)"
+
+echo "Checking for typos"
+typos
+
+echo "Fixing all markdown files..."
+
+# 1. Find every .md file in the repo (except CHANGELOG.md) and format it
+rumdl check README.md --fix
+
+git add README.md
+
+exit 0
